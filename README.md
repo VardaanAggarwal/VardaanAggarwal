@@ -1,5 +1,5 @@
 ### Hi there👋
-- 🔭 I have completed fundamental Java and learning about Data Structures and Algorithms(DSA) in C++ currently.
+- 🔭 I have completed fundamental Java and learning about Data Structures and Algorithms(DSA) in Java currently.
 - 🌱 I am also trying my hand at Python and Web Development.
 - 📫 How to reach me: vardaanaggarwalofficial@gmail.com
 
