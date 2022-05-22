@@ -4,6 +4,9 @@
 - 📫 How to reach me: vardaanaggarwalofficial@gmail.com
 
 ![profile views](https://komarev.com/ghpvc/?username=VardaanAggarwal&style=flat&color=brightgreen&label=Profile+Views)
+<td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/VardaanAggarwal/count.svg" alt="vistor count" height="30" width="224" /></td>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VardaanAggarwal&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
