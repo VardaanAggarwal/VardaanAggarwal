@@ -4,7 +4,7 @@
 
 - 🔭 I have completed **fundamental Java** and learning about **Data Structures and Algorithms(DSA) in Java** currently .
 - 🌱 I am also trying my hand at **Python** and **Web Development** .
-- 📫 How to reach me: **vardaanaggarwalofficial@gmail.com** .
+- 📫 How to reach me: [Twitter](https://twitter.com/VardaanAgg) .
 - 💬 Ask me about **Java, Python, C, HTML, CSS and Linux** .
 - ⚡ Fun fact **"I am selcouth"** .
 
