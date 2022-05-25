@@ -1,4 +1,7 @@
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm **Vardaan!**
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=How+does+that+work+!?;" </p>
+
 - 🔭 I have completed **fundamental Java** and learning about **Data Structures and Algorithms(DSA) in Java** currently .
 - 🌱 I am also trying my hand at **Python** and **Web Development** .
 - 📫 How to reach me: **vardaanaggarwalofficial@gmail.com** .
