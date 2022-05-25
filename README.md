@@ -13,11 +13,11 @@
     <td><img src="https://profile-counter.glitch.me/VardaanAggarwal/count.svg" alt="vistor count" height="30" width="224" /></td>
 
 
-<p align="left"> <a href="https://twitter.com/VardaanAgg" target="blank"><img src="https://img.shields.io/twitter/follow/VardaanAgg?logo=twitter&style=for-the-badge" alt="VardaanAgg" /></a></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VardaanAggarwal&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VardaanAggarwal&count_private=true&theme=radical&show_icons=true&?hide=)](https://github.com/anuraghazra/github-readme-stats)
+[![Twitter Follow](https://img.shields.io/twitter/follow/VardaanAgg?label=Follow)](https://twitter.com/intent/follow?screen_name=VardaanAgg)
+[![Linkedin: Vardaan](https://img.shields.io/badge/-Vardaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vardaan-aggarwal-457065227/)](https://www.linkedin.com/in/vardaan-aggarwal-457065227/)
+![GitHub followers](https://img.shields.io/github/followers/VardaanAggarwal?label=Follow&style=social)
+<!-- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=VardaanAgg&color=brightgreen">   -->
+<!-- <p align="left"> <a href="https://twitter.com/VardaanAgg" target="blank"><img src="https://img.shields.io/twitter/follow/VardaanAgg?logo=twitter&style=for-the-badge" alt="VardaanAgg" /></a></p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
