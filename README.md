@@ -26,7 +26,7 @@
 <a href="https://twitter.com/VardaanAgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditiangra" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vardaan-aggarwal-457065227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VardaanAggarwal" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/vardaan_agg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vardaan_agg" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/angra_aditi2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="angra_aditi2002" height="30" width="40" /></a> -->
+<!-- <a href="https://www.hackerrank.com/angra_aditi2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="angra_aditi2002" height="30" width="40" /></a> testing op-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
