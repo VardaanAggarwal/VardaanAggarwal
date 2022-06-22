@@ -8,11 +8,6 @@
 - 💬 Ask me about **Java, Python, C, HTML, CSS and Linux** .
 - ⚡ Fun fact **"I am selcouth"** .
 
-    
-    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VardaanAggarwal&" alt="VardaanAggarwal" /></p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
