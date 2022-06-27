@@ -8,7 +8,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=How+does+that+work+!?;" </p>
 
 ### :man_technologist: About Me :
-- 🔭 I have completed **fundamental Java** and learning about **Data Structures and Algorithms(DSA) in Java** currently .
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
+- 🔭 I have completed fundamental Java and learning about Data Structures 
+
+    and Algorithms(DSA) in Java currently .
   
 - 🌱 I am also trying my hand at **Python** and **Web Development** .
   
@@ -42,6 +48,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
 </p>
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 
