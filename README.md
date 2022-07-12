@@ -18,7 +18,7 @@
   
 - 🌱 I am also trying my hand at **Python** and **Web Development** .
   
-- 📫 How to reach me: [Email Me](vardaanaggarwalofficial@gmail.com) .
+- 📫 How to reach me: vardaanaggarwalofficial@gmail.com .
   
 - 💬 Ask me about **Java, Python, C, HTML, CSS and Linux** .
   
