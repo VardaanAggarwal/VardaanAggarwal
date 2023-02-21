@@ -4,9 +4,6 @@
 
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height = "29px" width = "29px">, I'm <strong>Vardaan!</strong></h1>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=How+does+that+work+!?;" </p>
-
 ### :man_technologist: About Me :
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -16,13 +13,13 @@
 
     and Algorithms(DSA) in Java currently .
   
-- 🌱 I am also trying my hand at **Python** and **Web Development** .
+- 🌱 Trying my hands on **Full Stack Development** .
   
 - 📫 How to reach me: vardaanaggarwalofficial@gmail.com .
   
-- 💬 Ask me about **Java, Python, C, HTML, CSS and Linux** .
+<!-- - 💬 Ask me about **Java, Python, C, HTML, CSS and Linux** . -->
   
-- ⚡ Fun fact **"I am selcouth"** .
+<!-- - ⚡ Fun fact **"I am selcouth"** . -->
   
   
 ---
