@@ -39,7 +39,8 @@
 ---
 
 ## Latest Tweet 😃
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=VardaanAgg"/></a>
+
+[![](https://gtce.itsvg.in/api?username=VardaanAgg)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 
@@ -50,7 +51,6 @@
 
 <!--
 
-[![](https://gtce.itsvg.in/api?username=VardaanAgg)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning DSA in C++.
