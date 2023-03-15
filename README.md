@@ -36,11 +36,6 @@
   <a href="https://twitter.com/VardaanAgg"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:vardaanaggarwalofficial@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
----
-
-## Latest Tweet 😃
-
-[![](https://gtce.itsvg.in/api?username=VardaanAgg)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 
@@ -51,6 +46,11 @@
 
 <!--
 
+---
+
+## Latest Tweet 😃
+
+[![](https://gtce.itsvg.in/api?username=VardaanAgg)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning DSA in C++.
