@@ -2,17 +2,16 @@
 * I am Vardaan Aggarwal, a programming enthusiast.
 * I'm a GDSC Lead of my campus right now.
 
-### Some languages I'm familiar with
+### Some languages I've worked with
 * C++
-* Golang
-* Javascript/Typescript
 * Java
+* Javascript/Typescript
+* Golang
 * Python
 
 ### Some things I like to do
 * Low-level programming
-* Backend development of distributed systems that scale.
-* Full-stack development
+* Solving Programming Problems
 
 ### Connect with me
 - 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
