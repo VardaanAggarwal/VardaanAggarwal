@@ -1,23 +1,35 @@
-### Hi there 👋
-* I am Vardaan Aggarwal, a programming enthusiast.
-* I'm a Software Development Engineer - Backend at Suraasa.
+# Hi there, I'm Vardaan Aggarwal 👋
 
-### Some languages I'm familiar with
-* C++
-* Golang
-* Javascript/Typescript
-* Java
-* Python
+Software Engineer (Full Stack) specializing in building **scalable distributed microservices**, **event-driven pipelines (GCP Pub/Sub)**, and **responsive web applications**.
 
-### Some things I like to do
-* Backend development of distributed systems that scale.
-* Low-level programming, especially OS related.
-* Casual Full stack development.
-<!-- * Competitive Programming, I am/was an active participant in Codechef, Codeforces and Atcoder. My handler is `vardaan` in all these sites. -->
-<!-- * Deep Learning, I love exploring the inner workings of different types of neural networks and models. -->
+---
 
+### 🚀 About Me
+- 💼 **Software Engineer (Full Stack)** at **Suraasa** — re-architecting async data pipelines, building RBAC systems, and integrating LLMs (Gemini API).
+- 🎓 Pursuing **MCA** from Manipal University Jaipur | **BCA** from GGSIPU.
+- 👨‍💻 Former **Google Developer Student Club (GDSC) Lead** — mentored 500+ student developers.
+- 🏆 **LeetCode:** 190+ Problems Solved | Contest Rating: 1,415.
 
-### Connect with me
-- 💬 Feel free to ask for any help in any of the above things, I will try to help.
+---
 
-- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/vardaanaggarwal/) or [github](https://github.com/VardaanAggarwal).
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Python` • `Go` • `TypeScript` • `JavaScript` • `C++` • `Java` • `SQL`
+
+**Frontend & Backend:**  
+`React` • `Django` • `Django REST Framework` • `Node.js` • `Express.js` • `HTML5/CSS3`
+
+**Cloud & Infrastructure:**  
+`Google Cloud Platform (GCP)` • `GCP Pub/Sub` • `Cloud Run` • `Docker` • `Kubernetes` • `Cloudflare Workers`
+
+**Databases & Caching:**  
+`PostgreSQL` • `Redis` • `MongoDB` • `Prisma ORM`
+
+---
+
+### 🌐 Connect & Portfolio
+- 🌐 **Portfolio:** [vardaan-dev.vercel.app](https://vardaan-dev.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/vardaanaggarwal](https://www.linkedin.com/in/vardaanaggarwal/)
+- 🧮 **LeetCode:** [leetcode.com/u/Vardaan_Aggarwal](https://leetcode.com/u/Vardaan_Aggarwal/)
+- 🪶 **X / Twitter:** [@VardaanAgg](https://x.com/VardaanAgg)
